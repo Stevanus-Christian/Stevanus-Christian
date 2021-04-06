@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with my girlfriend
 - 📫 How to reach me is contact me at stevanuschristian88@gmail.com
-- 🗺🗺 Palembang City, South Sumatera, Indonesia
+- 🗺 Palembang City, South Sumatera, Indonesia
 
 <!---
 Stevanus-Christian/Stevanus-Christian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
