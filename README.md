@@ -14,7 +14,7 @@
 - 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
 - 💼 &nbsp; Android Developer, Front-end Web Developer, and Back-end Web Developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, reading Manga, and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Anime, reading Manga, and playing games as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="24px"> Tech Stack</h3>
