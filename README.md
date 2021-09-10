@@ -11,11 +11,11 @@
 
 - 🔭 &nbsp; I’m currently learning Mobile Application Programming
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer, front-end web developer, and back-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
+- 💼 &nbsp; Android Developer, Front-end Web Developer, and Back-end Web Developer.
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime, reading Manga, and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
