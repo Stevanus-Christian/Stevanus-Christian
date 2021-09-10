@@ -14,12 +14,12 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer, front-end web developer, and back-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Anime, reading Manga, and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Pascal | Java | C | C++ | C# |
+- 💻 &nbsp; Python | Pascal | Java | C | C++ | C# 
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Laravel
 - 🛢 &nbsp; MySQL | Firebase | XAMPP
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Eclipse | Git
