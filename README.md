@@ -42,9 +42,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
-⭐️ From [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
 
 
