@@ -1,4 +1,8 @@
+<!---
 ![fdciabdul github stats](https://raw.githubusercontent.com/fdciabdul/fdciabdul/master/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png)
+--->
+
+
 
 <h2> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -15,11 +19,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Python | Pascal | Java | C | C++ | C# |
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Laravel
+- 🛢 &nbsp; MySQL | Firebase | XAMPP
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | Gimp
 
 <br>
 
@@ -45,7 +49,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [Stevanus-Christian](https://github.com/Stevanus-Christian)
-
 
 
 
