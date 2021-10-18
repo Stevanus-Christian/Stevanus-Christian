@@ -40,7 +40,9 @@
 
 
 
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> </p>  </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> 
+</p>
 
 <!---
 Stevanus-Christian/Stevanus-Christian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
