@@ -4,7 +4,7 @@
 
 
 
-<h2> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 
 <p align="center">
 &nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
