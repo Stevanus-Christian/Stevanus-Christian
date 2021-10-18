@@ -10,6 +10,9 @@
 &nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
   <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="150" />
 </a>
+</p>
+
+<p align="center">
 &nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
 </a>
