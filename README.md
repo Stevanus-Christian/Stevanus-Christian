@@ -30,15 +30,8 @@
 </a>
 </p>
 
-<p align="center">
-  <a img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100"/></a>
-  <a img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="100"></a>
-</p>
-
-<p align="center">
-  <![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)></a>
-  <![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)></a>
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100"/>
+<img align="left" src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="100">
 
 ![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)
