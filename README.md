@@ -31,7 +31,9 @@
 </p>
 
 <p align="center">
-  <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="750"/>
+</p>
+<p align="center">
   <img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="500">
 </p>
 
