@@ -7,7 +7,7 @@
 <h2> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p align="center">
-&nbsp; <a target="_blank" href=https://github.com/blueedgetechno>
+&nbsp; <a target="_blank" href=https://github.com/Stevanus-Christian rel="noopener noreferrer">
   <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="50" />
 </a>
 &nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
