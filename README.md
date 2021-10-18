@@ -44,6 +44,8 @@
 &nbsp; <a href="mailto:stevanuschristian88@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+![](https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&theme=redical)
+
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
