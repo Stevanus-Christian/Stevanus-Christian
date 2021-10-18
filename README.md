@@ -30,7 +30,7 @@
 </a>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 <img align="left" src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="500">
 
 <br>
