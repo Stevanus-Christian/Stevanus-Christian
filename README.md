@@ -30,11 +30,9 @@
 </a>
 </p>
 
-<p align="left">
-  <a img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
-  </a>
-  <a img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="500">
-  </a>
+<p align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
+  <img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="500">
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
