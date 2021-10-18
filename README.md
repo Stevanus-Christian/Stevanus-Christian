@@ -25,7 +25,20 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | Gimp
 
+<br><br>
+
+<p align="center">
+
+<img width="500" src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics">
+  
+<br>
+
+</p>
+
+<br>
+
 |![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&theme=redical)
 
