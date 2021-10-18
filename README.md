@@ -5,6 +5,28 @@
 
 
 <h2> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
+<p align="center">
+ <a target="_blank" href=https://github.com/blueedgetechno>
+  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://codeforces.com/profile/blue_edge>
+  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=https://twitter.com/blueedgetechno>
+  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
+  &nbsp;
+</a>
+
+<a target="_blank" href=mailto:blueedgetechno@gmail.com>
+  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  &nbsp;
+</a>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"> About Me </h3>
@@ -46,9 +68,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
-<br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> </p>  </p>
-<br>
 
 <!---
 Stevanus-Christian/Stevanus-Christian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
