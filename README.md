@@ -7,24 +7,23 @@
 <h2> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p align="center">
- <a target="_blank" href=https://github.com/blueedgetechno>
-  <img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />
-  &nbsp;
+&nbsp; <a target="_blank" href=https://github.com/blueedgetechno>
+  <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social />
 </a>
-
-<a target="_blank" href=https://codeforces.com/profile/blue_edge>
-  <img src=https://sta.codeforces.com/s/62449/favicon-32x32.png width="25" height="25" />
-  &nbsp;
+&nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
 </a>
-
-<a target="_blank" href=https://twitter.com/blueedgetechno>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-  &nbsp;
+&nbsp; <a href="https://twitter.com/StevanusChrist8" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+</a>  
+&nbsp; <a href="https://www.instagram.com/christian.stevanus/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+</a>  
+&nbsp; <a href="https://www.linkedin.com/in/stevanus-christian-881150203/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
 </a>
-
-<a target="_blank" href=mailto:blueedgetechno@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
-  &nbsp;
+&nbsp; <a href="mailto:stevanuschristian88@gmail.com" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
 </a>
 </p>
 
@@ -55,19 +54,7 @@
 
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"> Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
-&nbsp; <a href="https://twitter.com/StevanusChrist8" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/christian.stevanus/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/stevanus-christian-881150203/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:stevanuschristian88@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
 
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Stevanus-Christian](https://github.com/Stevanus-Christian)
 
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> </p>  </p>
 
