@@ -31,6 +31,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Stevanus-Christian/github-readme-stats)
 </p>
 
+|![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+
 ![](https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&theme=redical)
 
 <h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"> Connect with Me </h3>
