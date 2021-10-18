@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="800"/>
+  <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
 </p>
 <p align="center">
   <img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="700">
