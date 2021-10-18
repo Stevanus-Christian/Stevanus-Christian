@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/></a>
+  <a img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100"/></a>
   <a img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="500"></a>
 </p>
 
