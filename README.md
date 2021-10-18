@@ -8,7 +8,7 @@
 
 <p align="center">
 &nbsp; <a target="_blank" href=https://github.com/Stevanus-Christian rel="noopener noreferrer">
-  <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="100" />
+  <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="150" />
 </a>
 &nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
