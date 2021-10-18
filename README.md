@@ -30,36 +30,16 @@
 </a>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-<h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px"> About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning Mobile Application Programming
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Computer Programming and Mathematics.
-- 💼 &nbsp; Android Developer, Front-end Web Developer, and Back-end Web Developer.
-- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime, reading Manga, and playing games as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="24px"> Tech Stack</h3>
-
-- 💻 &nbsp; Python | Pascal | Java | C | C++ | C# 
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Laravel
-- 🛢 &nbsp; MySQL | Firebase | XAMPP
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio Code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | Gimp
-
-<p align="center">
+<p align="left">
   <img width="500" src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics">
 </p>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)
 
 ![](https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&theme=redical)
-
-<h3> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"> Connect with Me </h3>
 
 
 
