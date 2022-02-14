@@ -4,7 +4,7 @@
 
 
 
-<h1> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
+<h1> Hey there! I'm Stevanus Christian </h1>
 
 <p align="center">
   <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
@@ -25,10 +25,11 @@
 
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Stevanus Christian Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
+
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github-profile-trophy.vercel.app/?username=Stevanus-Christian&margin-w=5&theme=radical" alt="Stevanus-Christian" /></a> </p>
+
+<br>
 
 <p align="center">
 &nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
