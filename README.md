@@ -37,33 +37,26 @@
   <img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="700">
 </p>
 
+  <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stevanus-Christian&theme=github_dark" alt="Stevanus-Christian" align = "center"/></p>
-![](https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevanus-Christian&layout=compact&theme=tokyonight&langs_count=10)
-![](https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&theme=redical)
+
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stevanus-Christian&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Stevanus-Christian" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stevanus-Christian&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Stevanus-Christian" align = "center"/></p>
+
+ <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Stevanus-Christian&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Stevanus-Christian" /></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Stevanus Christian Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
+<details>    -->
+ <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github-profile-trophy.vercel.app/?username=Stevanus-Christian&margin-w=5&theme=radical" alt="Stevanus-Christian" /></a> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> 
 </p>
-
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCodeBeast&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
-
-  <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopCodeBeast&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="TopCodeBeast" align = "center"/></p>
-
- <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TopCodeBeast&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TopCodeBeast" /></p>
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TopCodeBeast&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=TopCodeBeast&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
 
 <!---
 Stevanus-Christian/Stevanus-Christian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
