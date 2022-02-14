@@ -7,30 +7,6 @@
 <h1> Hey there! I'm Stevanus Christian <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 
 <p align="center">
-&nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
-  <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="150" />
-</a>
-</p>
-
-<p align="center">
-&nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
-</a>
-&nbsp; <a href="https://twitter.com/StevanusChrist8" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
-</a>  
-&nbsp; <a href="https://www.instagram.com/christian.stevanus/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
-</a>  
-&nbsp; <a href="https://www.linkedin.com/in/stevanus-christian-881150203/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
-</a>
-&nbsp; <a href="mailto:stevanuschristian88@gmail.com" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
-</a>
-</p>
-
-<p align="center">
   <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
 </p>
 <p align="center">
@@ -55,8 +31,34 @@
 <p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github-profile-trophy.vercel.app/?username=Stevanus-Christian&margin-w=5&theme=radical" alt="Stevanus-Christian" /></a> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="blueedge"/> 
+&nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
+  <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="150" />
+</a>
 </p>
+
+<p align="center">
+&nbsp; <a href="https://www.facebook.com/thomas.iflekzz/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" />
+</a>
+&nbsp; <a href="https://twitter.com/StevanusChrist8" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+</a>  
+&nbsp; <a href="https://www.instagram.com/christian.stevanus/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+</a>  
+&nbsp; <a href="https://www.linkedin.com/in/stevanus-christian-881150203/" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+</a>
+&nbsp; <a href="mailto:stevanuschristian88@gmail.com" target="_blank" rel="noopener noreferrer">
+ <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Stevanus-Christian" alt="Stevanus-Christian"/> 
+</p>
+
+
 
 <!---
 Stevanus-Christian/Stevanus-Christian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
