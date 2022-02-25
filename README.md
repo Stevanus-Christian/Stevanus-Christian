@@ -26,6 +26,8 @@
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Stevanus Christian Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
+![snake](https://raw.githubusercontent.com/Stevanus-Christian/Stevanus-Christian/output/github-contribution-grid-snake.svg)
+
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github-profile-trophy.vercel.app/?username=Stevanus-Christian&margin-w=5&theme=radical" alt="Stevanus-Christian" /></a> </p>
 
