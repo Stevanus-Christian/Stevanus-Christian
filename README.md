@@ -31,6 +31,10 @@
 
 <br>
 
+![Snake animation](https://github.com/Stevanus-Christian/Stevanus-Christian/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
 <p align="center">
 &nbsp; <a href=https://github.com/Stevanus-Christian target="_blank" rel="noopener noreferrer">
   <img src=https://img.shields.io/github/followers/Stevanus-Christian?label=follow%20me&style=social width="150" />
