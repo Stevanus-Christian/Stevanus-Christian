@@ -31,6 +31,7 @@
 
 <br>
 
+<summary><b>📊 Contribution in Snake Game</b></summary>
 ![Snake animation](https://github.com/Stevanus-Christian/Stevanus-Christian/blob/output/github-contribution-grid-snake.svg)
 
 <br>
