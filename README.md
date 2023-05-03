@@ -10,7 +10,7 @@
   <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
 </p>
 <p align="center">
-  <img src="https://metrics.lecoq.io/Stevanus-Christian" alt="Github Metrics" width="700">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevanus-christian&show_icons=true&locale=en" alt="stevanus-christian" />
 </p>
 
   <summary><b>🔎 Github Profile Details</b></summary>
