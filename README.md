@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/main/gif.gif" width="850"/>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevanus-christian&show_icons=true&locale=en" alt="stevanus-christian" />
-</p>
 
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stevanus-Christian&theme=github_dark" alt="Stevanus-Christian" align = "center"/></p>
