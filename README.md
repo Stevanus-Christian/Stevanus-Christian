@@ -20,16 +20,9 @@
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Stevanus-Christian&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Stevanus-Christian" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Stevanus Christian Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Stevanus-Christian&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
  <summary><b>🏆 Github Trophy</b></summary>
 <p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github-profile-trophy.vercel.app/?username=Stevanus-Christian&margin-w=5&theme=radical" alt="Stevanus-Christian" /></a> </p>
-
-<br>
-
-<summary><b>📊 Contribution in Snake Game</b></summary>
-<p align="center"> <a href="https://github.com/Stevanus-Christian"><img src="https://github.com/Stevanus-Christian/Stevanus-Christian/blob/output/github-contribution-grid-snake.svg" alt="Stevanus-Christian" /></a> </p>
 
 <br>
 
